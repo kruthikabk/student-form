@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845383223632",
+    "firebase_url": "https://studentform-f0177.firebaseio.com",
+    "project_id": "studentform-f0177",
+    "storage_bucket": "studentform-f0177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845383223632:android:e05514eb019bfda76a4455",
+        "android_client_info": {
+          "package_name": "com.example.studentform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845383223632-t9to8kk99p0ifdsf3m34lb3h21lv1vt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentform",
+            "certificate_hash": "8270d045f7a6fdc6188b007ab5fd02d72284abee"
+          }
+        },
+        {
+          "client_id": "845383223632-6hgaqf6vqcr36ndp6497km69nrt45h07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBin1lMFV-U8jF70DNNgsl2LZ-qVAz9RO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845383223632-6hgaqf6vqcr36ndp6497km69nrt45h07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
